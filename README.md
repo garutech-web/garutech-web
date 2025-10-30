@@ -28,7 +28,8 @@ Otros: Git, Docker
 
 ## 🌱 Actualmente estoy
 
-- Subiendo proyectos a GitHub para documentar mi trayectoria.
+- Explorando el potencial de la inteligencia artificial
+Me dedico a crear agentes de IA capaces de comprender y responder de forma natural, automatizar procesos y mejorar la interacción entre personas y tecnología. Mi objetivo es combinar desarrollo, diseño e inteligencia artificial para construir soluciones más humanas, eficientes y adaptables.
 - Desarrollando aplicaciones moviles y de escritorio con soluciones innovadoras 
 
 ---
