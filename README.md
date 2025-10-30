@@ -37,8 +37,8 @@ Me dedico a crear agentes de IA capaces de comprender y responder de forma natur
 ## 🌐 Encuéntrame en
 
 - 💼 https://www.linkedin.com/in/garibaldiortu%C3%B1o/?trk=opento_sprofile_topcard(#)
-- 📧 garyjosue19@gmail.com
+- 📧 gortuno@kbasesorias.com
 
 ---
 
-> ✨ ¡Personaliza este README con tu información y destaca tu perfil profesional!
+
