@@ -1,6 +1,6 @@
 # 👋 Hola, soy Gary Ortuño
 
-Apasionado por crear soluciones digitales que combinan diseño intuitivo y código limpio. Me especializo en el desarrollo de aplicaciones web y móviles, aprovechando el poder de JavaScript (React, Node.js) y Python (Django, FastAPI) para construir productos robustos y escalables.
+Apasionado por crear soluciones digitales que combinan diseño intuitivo y código limpio. Me especializo en el desarrollo de soluciones digitales impulsadas por inteligencia artificial, así como en la creación de aplicaciones web y móviles, aprovechando el poder de JavaScript (React, Node.js) y Python (Django, FastAPI) para construir productos robustos, escalables e innovadores.
 
 ---
 
